@@ -7,6 +7,13 @@
 - Flask-SQLAlchemy
 - Flask-login
 
+# Stack
+- Python
+- Flask
+- CSS
+- HTML
+- JavaScript
+
 # Setup and Installation
 ```bash
 git clone <repo-url>
@@ -20,4 +27,7 @@ pip install -r requirements.txt
 python main.py
 ```
 
-- Link: Go to --> `http://127.0.0.1:5000`
+# Link
+```bash
+http://127.0.0.1:5000
+```
